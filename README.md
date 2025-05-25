@@ -61,6 +61,7 @@ This project focuses on detecting crop diseases across **15 distinct classes** u
 
 ![ResNet50 Confusion Matrix](https://github.com/mushfiq525/Crop-Disease-Detection/blob/main/Crop%20disease%20detection%20ResNet50/imgs/conf%20matrix.png)
 
+---
 
 ## Predictions
 
